@@ -10,7 +10,7 @@
 ![React Badge](https://img.shields.io/badge/React-17.0.2-45b8d8?style=flat-square)
 ![Solidity_Badge](https://img.shields.io/badge/Solidity-%5E8.0.0-363636?style=flat-square)
 ![Truffle](https://img.shields.io/badge/Truffle-5.3.14-F0E8E0?style=flat-square)
-[![Made by NatalieBravo](https://img.shields.io/badge/made%20by-NatalieBravo-blueviolet?style=flat-square)](https://www.linkedin.com/in/nataliebravo/)
+[![Made by adonis0907](https://img.shields.io/badge/made%20by-NatalieBravo-blueviolet?style=flat-square)](https://www.linkedin.com/in/nataliebravo/)
 </div>
 
 # Summary
@@ -88,7 +88,7 @@ To run the application you'll need:
 * [Truffle](https://www.trufflesuite.com/)
 * [Ganache](https://www.trufflesuite.com/ganache)
 * Clone the repository:
-  * ```$ git clone https://github.com/BravoNatalie/NFT-Marketplace.git ```
+  * ```$ git clone https://github.com/adonis0907/NFT-Marketplace.git ```
 
 
 Now go to project folder and run:
@@ -131,18 +131,15 @@ There are some things to be done in the project:
 
 ## :page_with_curl: License
 
-This project is under the **MIT license**. See the [LICENSE](https://github.com/BravoNatalie/NFT-Marketplace/blob/master/LICENSE) for more information.
+This project is under the **MIT license**. See the [LICENSE](https://github.com/adonis0907/NFT-Marketplace/blob/master/LICENSE) for more information.
 
 
 ## :mailbox_with_mail: Get in touch!
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nataliebravo/" target="_blank" >
-  <img alt="Linkedin - Natalie Bravo" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
-</a>
 <a href="mailto:natalie.bravo@ice.ufjf.br" target="_blank" >
-  <img alt="Email - Natalie Bravo" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
+  <img alt="Email - Alexis Colin" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
 </a> 
 <br/>
-  Made with :coffee: and ❤️ by <b>Natalie Bravo</b>.
+  Made with :coffee: and ❤️ by <b>Alexis Colin</b>.
 <p/>
